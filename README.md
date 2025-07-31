@@ -1,6 +1,6 @@
 # Altadena25
 
-These images capture the Altadena, CA wildfires that occured in January 2025. The satelite imagery was extracted from images collected from mid January to late January.
+These images capture the Altadena, CA wildfires that occured in January 2025. The satelite imagery was extracted from images collected from mid January to late January. The animation mp4 file is shared here. Please download to view the animation.
 
 # Altadena Fire NBR Animation using Google Earth Engine
 
