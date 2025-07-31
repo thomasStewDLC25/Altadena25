@@ -1,5 +1,7 @@
 # Altadena25
 
+These images capture the Altadena, CA wildfires that occured in January 2025. The satelite imagery was extracted from images collected from mid January to late January.
+
 # Altadena Fire NBR Animation using Google Earth Engine
 
 This repository includes a Google Earth Engine (GEE) script that computes pre- and post-fire Normalized Burn Ratio (NBR) values over Altadena, CA using Landsat 8 and 9 imagery. The script creates a smooth animation showing NBR changes across 30 blended frames.
